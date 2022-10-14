@@ -1,6 +1,6 @@
-Basic recursion
+//Basic recursion
 
-Understand recursion by print something N times
+//Understand recursion by print something N times
 
 #include <bits/stdc++.h>
 
